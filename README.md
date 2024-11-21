@@ -4,6 +4,8 @@
 
 This README file provides an overview of how to set up the project, understand the code, and run the game.
 
+To see the scripts of the game go to assests folder then scripts folder.
+
 ## Table of Contents
 1. [Features](#features).
 2. [Getting Started](#getting-started).
