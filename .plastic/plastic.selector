@@ -1,0 +1,4 @@
+repository "platformer_game@shadow2401@cloud"
+  path "/"
+    br "/main"
+    co "/main"
